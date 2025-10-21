@@ -1,5 +1,6 @@
 // API 기본 URL
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+//const API_URL = 'http://localhost:8000';
 
 /**
  * 과제 검색
